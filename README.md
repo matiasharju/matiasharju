@@ -1,4 +1,4 @@
-Hi, I’m Matias Harju, a Finnish sound designer and musician specialised in immersive and interactive sonic storytelling.
+Hi, I’m Matias Harju, a Finnish sound designer and musician specialising in immersive and interactive sonic storytelling.
 Check my website matiasharju.com for info on my recent projects and contact details.
 
 <!---
